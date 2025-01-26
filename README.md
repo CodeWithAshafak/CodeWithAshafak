@@ -1,3 +1,6 @@
+![](https://github.com/CodeWithAshafak/CodeWithAshafak/blob/master/Blue%20Geometric%20Technology%20Linkedin%20Banner.gif)
+
+
 <h1 align="center">Hi 👋, I'm Ashafak Shaikh A. Astanwale</h1>
 <h3 align="center">A passionate softwere developer from India | Turning Ideas into Functional Code | Lifelong Learner </h3>
 
