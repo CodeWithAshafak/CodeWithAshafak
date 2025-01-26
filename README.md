@@ -44,4 +44,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithashafak&" alt="codewithashafak" /></p>
 
-(https://github.com/CodeWithAshafak/CodeWithAshafak/blob/output/github-snake-dark.svg)
+https://github.com/CodeWithAshafak/CodeWithAshafak/blob/output/github-snake-dark.svg
