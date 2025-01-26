@@ -48,11 +48,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithashafak&" alt="codewithashafak" /></p>
 
 
-<center>
- ### Thank You for Visiting! 🌟  <br>
-I truly appreciate you taking the time to explore my profile.    <br>
-Feel free to check out my projects and connect with me.    <br>
 
-Stay awesome! 😄
 </center>
+<h3 align="center"> 🙏 Thank You for Visiting! 🌟   </h3>
+<h4 align="center"> I truly appreciate you taking the time to explore my profile. Feel free to check out my projects and connect with me. 🚀🤝  </h4>
+
+<h3 align="center">Stay awesome! 😄   </h3>
 
