@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithashafak&label=Profile%20views&color=0e75b6&style=flat" alt="codewithashafak" /> </p>
 
 - 👨‍🎓 Education :- <br> 
-📜 Complated Master's in Computer Applications (MCA) <br>
+📜 Complated Master's in Computer Applications (MCA)-2024 <br>
 [🌟 Specialization: Artificial Intelligence & Machine Learning] <br>
 (🏫 LNCT University, Bhopal, MP )
 
