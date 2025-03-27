@@ -29,7 +29,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/17_MWpCDUPVc_nIeRPeLGQ1CUf5dwNZwF/view?usp=sharing](https://drive.google.com/file/d/17_MWpCDUPVc_nIeRPeLGQ1CUf5dwNZwF/view?usp=sharing)
 
 - ⚡ Fun fact **I'm Funny 😄|I turn every challenge into a chance to grow, both in coding and life! 💪✨**
-
+https://linkedin.com/in/https://www.linkedin.com/in/ashafak-astanwale-4210b6267/
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ashafak-astanwale-4210b6267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashafak-astanwale-4210b6267/" height="30" width="40" /></a>
